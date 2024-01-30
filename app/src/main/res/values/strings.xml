@@ -1,3 +1,5 @@
-<resources>
+    <resources>
     <string name="app_name">UIDesign</string>
+        <string name="email">Email or Username</string>
+        <string name="passworld">PassWorld</string>
 </resources>
