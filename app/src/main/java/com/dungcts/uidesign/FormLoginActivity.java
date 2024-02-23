@@ -9,6 +9,6 @@ public class FormLoginActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_formlogin_linearlayout);
+        setContentView(R.layout.activity_formsignup_linearlayout);
     }
 }
